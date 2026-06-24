@@ -1,5 +1,11 @@
 # Hi there, I'm [spider coder]! 👋 
 ### 🚀 Software Engineering Student | Backend Developer Enthusiast
+<p align="center">
+  <img src="https://i.giphy.com/Ywj2iCO1TOkyQ.webp" width="160" alt="Shin-chan Dance" />
+</p>
+<p align="center">
+  <img src="https://i.giphy.com/gRt2NcSfFeFna.webp" width="160" alt="Shin-chan Dance 2" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Building+scalable+apps;Continuous+learning...;Java+%26+SQL+Lover" alt="Typing SVG" />
