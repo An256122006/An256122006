@@ -1,78 +1,137 @@
-# Hi there, I'm [spider coder]! 👋 
-### 🚀 Software Engineering Student | Backend Developer Enthusiast
+<h1 align="center">Hi 👋, I'm Spider Coder</h1>
+
+<h3 align="center">
+🚀 Software Engineering Student | Backend Developer | Java Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://i.giphy.com/Ywj2iCO1TOkyQ.webp" width="160" alt="Shin-chan Dance" />
-</p>
-<p align="center">
-  <img src="https://i.giphy.com/gRt2NcSfFeFna.webp" width="160" alt="Shin-chan Dance 2" />
+  <img src="https://i.giphy.com/Ywj2iCO1TOkyQ.webp" width="180"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Building+scalable+apps;Continuous+learning...;Java+%26+SQL+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Java+Backend+Developer;Spring+Boot+%7C+Android+Developer;Always+Learning+New+Things..." />
 </p>
 
 ---
 
-## 💫 About Me:
-- 🎓 **Education:** Information Technology / Software Engineering Student.
-- 💻 **Passionate about:** Backend Development, Software Architecture, and Clean Code.
-- 🧠 **Learning:** Android App Development & Advanced Design Patterns.
-- 🎯 **Current Focus:** Improving competitive programming skills and mastering system design.
-- ⚙️ **Methodologies:** Agile / Scrum framework practitioner.
+# 👨‍💻 About Me
+
+- 🎓 Software Engineering Student
+- 💻 Passionate about Backend Development
+- 🌱 Currently learning Spring Boot & Android
+- 📚 Interested in System Design & Clean Architecture
+- 🏆 Competitive Programming Enthusiast
+- ⚡ Motto:
+
+> **"Code. Learn. Build. Repeat."**
 
 ---
 
-## 🛠️ My Tech Stack:
+# 🚀 Tech Stack
 
-### 💻 Languages & Core
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,mysql,sqlite,c,cpp,html,css,js,markdown" />
 </p>
 
-### 🌐 Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+### ⚙️ Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,androidstudio,gradle,maven" />
 </p>
 
-### 🧰 Tools & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
 </p>
 
 ---
 
-## 📈 GitHub Stats & Trophies
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" height="180px"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=An256122006&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=An256122006&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=An256122006&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📂 Featured Projects:
-* **Cypher Game (Cyber Café Management System):** A desktop system optimized with Java and SQL for tracking gaming center bookings, rooms, and users.
-* **Pet Shop Management System:** Designed robust database entities and relationships using OOP and SOLID principles.
-* **E-Commerce Architecture Analysis:** A deep-dive research paper analyzing and comparing the system architecture of major platforms (Shopee, Tiki, Lazada).
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=An256122006&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
 
 ---
 
-## 🤝 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=An256122006&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=green&style=flat-square" alt="Profile Views" />
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/An256122006/An256122006/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
+
+---
+
+# 🌟 Featured Projects
+
+### 🎮 Cypher Game
+Java + SQL desktop application for managing cyber cafés.
+
+### 🐶 Pet Shop Management
+Management system applying OOP, SOLID Principles.
+
+### 🛒 E-Commerce Architecture
+Research & comparison of Shopee, Lazada and Tiki architectures.
+
+---
+
+# 📫 Contact Me
+
+<p>
+
+<a href="mailto:your.email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=An256122006&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
